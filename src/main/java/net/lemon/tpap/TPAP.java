@@ -35,6 +35,7 @@ public class TPAP
         ModBlocks.register(modEventBus);
         ModBlockEntities.register(modEventBus);
         ModMenuTypes.register(modEventBus);
+        ModLootFunctions.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
