@@ -62,7 +62,23 @@
   "block.tpap.stegosaurus_stenops": "Stegosaurus stenops Statue",
   "block.tpap.concavenator_corcovatus": "Concavenator corcovatus Statue",
   "block.tpap.jonkeria_truculenta": "Jonkeria truculenta Statue",
-
+  "block.tpap.balaenoptera_musculus": "Balaenoptera musculus intermedia \"Antarctic Blue Whale\" Statue",
+  "block.tpap.odocoileus_virginianus_male": "Odocoileus virginianus (Male) \"White Tailed Deer\" Statue",
+  "block.tpap.odocoileus_virginianus_female": "Odocoileus virginianus (Female) \"White Tailed Deer\" Statue",
+  "block.tpap.diplocaulus_magnicornis": "Diplocaulus magnicornis Statue",
+  "block.tpap.omnidens_amplus": "Omnidens amplus Statue",
+  "block.tpap.aquilolamna_milarcae": "Aquilolamna milarcae Statue",
+  "block.tpap.europasaurus_holgeri": "Europasaurus holgeri Statue",
+  "block.tpap.anomalocaris_canadensis": "Anomalocaris canadensis Statue",
+  "block.tpap.dickinsonia_costa": "Dickinsonia costata Statue",
+  "block.tpap.keuppia_levante": "Keuppia levante Statue",
+  "block.tpap.beelzebufo_ampinga": "Beelzebufo ampinga Statue",
+  "block.tpap.arctodus_simus": "Arctodus simus Statue",
+  "block.tpap.corvus_corax": "Corvus corax \"Common Raven\" Statue",
+  "block.tpap.shringasaurus_indicus_female": "Shringasaurus indicus (Female) Statue",
+  "block.tpap.shringasaurus_indicus_male": "Shringasaurus indicus (Male) Statue",
+  "block.tpap.maip_macrothorax": "Maip macrothorax Statue",
+  "block.tpap.equus_occidentalis": "Equus occidentalis \"Western Horse\" Statue",
 
 
 
@@ -135,8 +151,22 @@
   "genus.tpap.apatosaurus": "Apatosaurus",
   "genus.tpap.concavenator": "Concavenator",
   "genus.tpap.jonkeria": "Jonkeria",
-
-
+  "genus.tpap.balaenoptera": "Balaenoptera",
+  "genus.tpap.odocoileus": "Odocoileus",
+  "genus.tpap.diplocaulus": "Diplocaulus",
+  "genus.tpap.omnidens": "Omnidens",
+  "genus.tpap.aquilolamna": "Aquilolamna",
+  "genus.tpap.europasaurus": "Europasaurus",
+  "genus.tpap.anomalocaris": "Anomalocaris",
+  "genus.tpap.dickinsonia": "Dickinsonia",
+  "genus.tpap.keuppia": "Keuppia",
+  "genus.tpap.beelzebufo": "Beelzebufo",
+  "genus.tpap.arctodus": "Arctodus",
+  "genus.tpap.corvus": "Corvus",
+  "genus.tpap.vivaxosaurus": "Vivaxosaurus",
+  "genus.tpap.shringasaurus": "Shringasaurus",
+  "genus.tpap.equus": "Equus",
+  "genus.tpap.maip": "Maip",
 
 
   "moldsize.tpap.small": "Small",

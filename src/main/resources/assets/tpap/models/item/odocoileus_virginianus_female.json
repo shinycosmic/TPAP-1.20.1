@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tpap:item/odocoileus_virginianus_female_icon"
+  }
+}
